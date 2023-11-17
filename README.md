@@ -2,10 +2,13 @@
 <p align="center">Desafio realizado com conceitos API e modularização</p>
 
 
-## (SPA Universe)
-https://github.com/DevMaroto/Desafio-SPA-Universe-Explorer-Turma-11/assets/88672028/f7850747-15cd-4da2-a22c-b4b2ac3df1db
+## (Git Fav)
+https://github.com/DevMaroto/Desafio-stage-6-Git-Fav-Explorer-Turma-11/assets/88672028/4f3116ca-87f5-4382-8ef3-dd2412bd0c8b
 
 <br>
+
+
+
 
 
 
